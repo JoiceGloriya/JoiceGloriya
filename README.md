@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoiceGloriya
-- 👀 I’m interested in ...
+
 
 
 <!---
